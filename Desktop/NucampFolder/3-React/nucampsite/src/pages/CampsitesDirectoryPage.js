@@ -6,7 +6,7 @@ const CampsitesDirectoryPage = () => {
    
      return(
         <Container>
-            <SubHeader current= 'directory' />
+            <SubHeader current= 'Directory' />
            <CampsitesList />
         </Container>
     );
